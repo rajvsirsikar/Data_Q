@@ -4,5 +4,5 @@ Repo for Data Quality course
 - python
 - R
 ## Section 2: Tools
--- Weka
--- SPSS
+- Weka
+- SPSS
