@@ -6,4 +6,7 @@ Repo for Data Quality course
 ## Section 2: Tools
 - Weka
 - SPSS
+- Tableau
+- Trifacta
+- Wrangler
 - Weka2
