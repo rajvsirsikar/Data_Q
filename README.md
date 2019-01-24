@@ -7,3 +7,5 @@ Repo for Data Quality course
 - Weka
 - SPSS
 - Tableau
+- Trifacta
+- Wrangler
