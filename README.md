@@ -9,3 +9,4 @@ Repo for Data Quality course
 - Tableau
 - Trifacta
 - Wrangler
+- Weka2
